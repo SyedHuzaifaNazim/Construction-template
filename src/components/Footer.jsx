@@ -62,14 +62,14 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <FiMail className="mr-3" />
-                <span>info@eleverconstruction.com</span>
+                <span>info@hammerconstruction.com</span>
               </li>
             </ul>
           </div>
         </div>
         
         <div className="border-t border-gray-700 mt-10 pt-6 text-center text-gray-400 text-sm">
-          <p>© 2023 Elever Construction. All rights reserved.</p>
+          <p>© 2023 Hammer Construction. All rights reserved.</p>
         </div>
       </div>
     </footer>

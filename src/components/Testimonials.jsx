@@ -8,7 +8,7 @@ const Testimonials = () => {
       id: 1,
       name: 'Robert Johnson',
       role: 'Homeowner',
-      content: 'Elever Construction built our dream home exactly as we envisioned. Their attention to detail and professionalism was outstanding throughout the entire process.',
+      content: 'Hammer Construction built our dream home exactly as we envisioned. Their attention to detail and professionalism was outstanding throughout the entire process.',
       avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80',
       rating: 5
     },
@@ -16,7 +16,7 @@ const Testimonials = () => {
       id: 2,
       name: 'Sarah Williams',
       role: 'Business Owner',
-      content: 'We hired Elever for our office renovation, and they delivered beyond our expectations. The project was completed on time and within budget.',
+      content: 'We hired Hammer for our office renovation, and they delivered beyond our expectations. The project was completed on time and within budget.',
       avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80',
       rating: 5
     },
@@ -24,7 +24,7 @@ const Testimonials = () => {
       id: 3,
       name: 'Michael Chen',
       role: 'Property Developer',
-      content: 'I\'ve worked with many construction companies, but Elever stands out for their quality work and reliable service. Highly recommended!',
+      content: 'I\'ve worked with many construction companies, but Hammer stands out for their quality work and reliable service. Highly recommended!',
       avatar: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80',
       rating: 4
     }
