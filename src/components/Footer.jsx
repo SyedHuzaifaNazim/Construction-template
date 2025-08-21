@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="md:col-span-1">
             <div className="flex items-center mb-4">
               <div className="bg-orange-500 text-white font-bold text-2xl px-3 py-1 mr-2">E</div>
-              <span className="text-xl font-bold">Elever Construction</span>
+              <span className="text-xl font-bold">Hammer Construction</span>
             </div>
             <p className="text-gray-400 mb-4">
               Building excellence since 2008. We provide high-quality construction services for residential and commercial projects.
